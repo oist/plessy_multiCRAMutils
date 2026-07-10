@@ -15,6 +15,9 @@ def parse_region(region: str):
 
     Returns:
       chrom, start_1based, end_1based
+
+    Example:
+      ./extract_region_aligned_bases.py --cram MT192765.cram --ref MT192765.gz --region MT192765.1:100-200
     """
     m = re.fullmatch(r"([^:]+):([\d,]+)-([\d,]+)", region)
     if not m:

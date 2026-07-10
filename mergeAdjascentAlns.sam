@@ -1,0 +1,4 @@
+@HD	VN:1.6	SO:coordinate
+@SQ	SN:Chr1	LN:10000000
+chr1_alt	0	Chr1	1000	60	100H10M5I5M20D50H	*	0	0	*	*
+chr1_alt	0	Chr1	1035	60	135H20M3I10M40H	*	0	0	*	*

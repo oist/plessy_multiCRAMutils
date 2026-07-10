@@ -11,3 +11,5 @@ reference sequence in the CRAM files.  The _query_ genomes are represented as
 read groups.  Hard-clipped regions can be longer than the 268,435,455 length
 limit (28 bits) in the BAM and CRAM files; in CIGAR lines they are represented
 as adjascent clipping operations.
+
+The `mergeAdjascentAlns.sam` is toy test data.

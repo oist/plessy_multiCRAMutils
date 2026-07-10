@@ -1,4 +1,4 @@
 @HD	VN:1.6	SO:coordinate
-@SQ	SN:Chr1	LN:10000000
+@SQ	SN:Chr1	LN:4440	M5:789b4e49be7af92e0caf86d6074424b7	UR:./ref.fa.gz
 chr1_alt	0	Chr1	1000	60	100H10M5I5M20D50H	*	0	0	*	*
 chr1_alt	0	Chr1	1035	60	135H20M3I10M40H	*	0	0	*	*
